@@ -25,7 +25,7 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 - Purpose of visit  
 - Demographics  
 
-*Final dashboard image and TWBX file included in `/03_dashboard/`.*
+*Final dashboard image and TWBX file included in `/dashboard/`.*
 
 ---
 
