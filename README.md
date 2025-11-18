@@ -12,7 +12,7 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### **1. Japan Visitor Trends (1964–2024)**
 - Historical arrivals  
@@ -25,11 +25,11 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 - Purpose of visit  
 - Demographics  
 
-📌 *Final dashboard image and TWBX file included in `/dashboard/`.*
+*Final dashboard image and TWBX file included in `/dashboard/`.*
 
 ---
 
-## 🔍 Data Sources
+## Data Sources
 
 | Dataset | Year | Description | File |
 |--------|------|-------------|-------|
@@ -47,7 +47,7 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 
 ---
 
-## 🧪 Data Quality & Cleaning Summary
+## Data Quality & Cleaning Summary
 
 Key cleaning steps:
 - Standardized date formats (YYYY or MMM YYYY)
@@ -59,7 +59,7 @@ Key cleaning steps:
   
 ---
 
-## 📈 Analytical Approach
+## Analytical Approach
 
 **1. KPI Definition**
 - Total inbound visitors (1970–2024)
@@ -82,7 +82,7 @@ Key cleaning steps:
 
 ---
 
-## 💡 Key Insights (High-level)
+## Key Insights (High-level)
 
 - **2024 hit an all-time record** for inbound visitors  
 - Strong recovery driven by **South Korea, China, Taiwan**  
@@ -94,7 +94,7 @@ Key cleaning steps:
 
 ---
 
-## 🗂️ Deliverables
+## Deliverables
 
 - ✔ Tableau dashboard (`.twbx`, PNG)  
 - ✔ Clean datasets  
@@ -106,7 +106,7 @@ All files are available in the respective folders.
 
 ---
 
-## 🧭 How to Reproduce
+## How to Reproduce
 
 1. Download the repository  
 2. Open the `.twbx` Tableau file  
@@ -115,7 +115,7 @@ All files are available in the respective folders.
 
 ---
 
-## 👩‍💻 Tools Used
+## Tools Used
 - **Tableau Public** — visualizations  
 - **Excel** — data cleaning  
 - **Notion** — brief and planning  
@@ -123,14 +123,14 @@ All files are available in the respective folders.
 
 ---
 
-## 🙋‍♀️ About the Analyst
+## About the Analyst
 
 Hi, I’m **Syahraini**, transitioning into Business Analysis with a background in accounting.  
 I focus on clean, stakeholder-ready dashboards and practical insights driven by real-world data.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **LinkedIn:** *www.linkedin.com/in/nsyahraini*  
 - **Portfolio:** *https://bit.ly/syahrainiportfolio*  
