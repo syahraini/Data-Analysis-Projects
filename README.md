@@ -42,6 +42,7 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 **Original sources:** 
 - JNTO (Japan National Tourism Organization)  | https://statistics.jnto.go.jp/en/graph/
 - JTA (Japan Tourism Agency) | https://www.mlit.go.jp/kankocho/en/siryou/toukei/syouhityousa.html
+
 *All files are stored in `/data/raw/`.*
 
 ---
