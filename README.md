@@ -25,7 +25,7 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 - Purpose of visit  
 - Demographics  
 
-*Final dashboard image and TWBX file included in `/dashboard/`.*
+*Final dashboard image and TWBX file included in `/03_dashboard/`.*
 
 ---
 
@@ -43,7 +43,7 @@ The goal is to produce a clear, business-ready overview of Japan’s tourism rec
 - JNTO (Japan National Tourism Organization)  | https://statistics.jnto.go.jp/en/graph/
 - JTA (Japan Tourism Agency) | https://www.mlit.go.jp/kankocho/en/siryou/toukei/syouhityousa.html
 
-*All files are stored in `/data/raw/`.*
+*All files are stored in `/02_data/`.*
 
 ---
 
@@ -62,7 +62,7 @@ Key cleaning steps:
 ## Analytical Approach
 
 **1. KPI Definition**
-- Total inbound visitors (1970–2024)
+- Total inbound visitors (1964–2024)
 - YoY growth rate
 - Top visitor markets (2024)
 - Region visitation distribution (2024)
