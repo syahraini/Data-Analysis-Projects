@@ -114,15 +114,21 @@ The result is a clean, analysis-ready dataset for BI use.
 ### **Included (In-Scope)**
 
 ✔ Historical visitor analysis (1964–2024)
+
 ✔ Economic insights (market share by nationality)
+
 ✔ Detailed segmentation (purpose, demographics, nationality)
+
 ✔ Core tourism KPIs
+
 ✔ Regional distribution analysis
 
 ### **Out-of-Scope**
 
 ❌ Forecasting or predictive modeling
+
 ❌ Projections beyond 2024
+
 ❌ Primary data collection (surveys/interviews)
 
 ---
