@@ -151,21 +151,21 @@ A small group of countries—**South Korea, China, Taiwan**—contribute the maj
 
 ### **3. Regional Distribution Imbalance**
 
-Visitor activity is heavily concentrated in **Kanto (51.49%)** and **Kansai (39.57%)**.
+Visitor activity is heavily concentrated in **Kanto** and **Kansai**.
 
 **Implication:** Secondary regions offer high-growth potential with targeted campaigns.
 
 
 ### **4. Demographic Profile**
 
-The core visitor group is **30–39 years old (41.13%)**, with a slight male majority (54.15%).
+The core visitor group is **20–39 years old (60%)**, with a slight male majority (51%).
 
 **Implication:** Marketing should focus on digital-first experiences tailored to working professionals and young families.
 
 
 ### **5. High-Value Niche Segments**
 
-Study, medical, and training visitors represent **<2% of total arrivals**, but account for **36%+ of total spending**.
+Study, medical, and training visitors represent **<2% of total arrivals**, but account for **43%+ of total spending**.
 
 **Implication:** Sustainable revenue growth lies in developing high-value niche markets—not only in driving mass tourism.
 
@@ -177,7 +177,7 @@ Study, medical, and training visitors represent **<2% of total arrivals**, but a
 * Clean datasets
 * Project brief
 * Data dictionary
-* Presentation slides | https://www.canva.com/design/DAG4yvV5wDQ/QEMMlRR2F_nQlX2WUZ4yNQ/view?utm_content=DAG4yvV5wDQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h717a6b519d
+* Presentation slides  (https://bit.ly/japantourism)
 
 All deliverables are neatly organized in labeled folders.
 
