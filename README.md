@@ -177,7 +177,7 @@ Study, medical, and training visitors represent **<2% of total arrivals**, but a
 * Clean datasets
 * Project brief
 * Data dictionary
-* Presentation slides
+* Presentation slides | https://www.canva.com/design/DAG4yvV5wDQ/QEMMlRR2F_nQlX2WUZ4yNQ/view?utm_content=DAG4yvV5wDQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h717a6b519d
 
 All deliverables are neatly organized in labeled folders.
 
@@ -188,7 +188,7 @@ All deliverables are neatly organized in labeled folders.
 * **Tableau Public** — dashboarding
 * **Excel / Power Query** — cleaning & transformation
 * **Notion** — documentation
-* **PowerPoint** — insight storytelling
+* **Canva** — insight storytelling
 
 ---
 
